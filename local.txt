@@ -1,0 +1,1 @@
+i have created this text file on local computer, now i want to push this file on remote server through git command
