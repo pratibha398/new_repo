@@ -1,3 +1,3 @@
 i have created this text file on local computer, now i want to push this file on remote server through git command
 
-now i have changes on this text file through on my remote now i want to push whatever i have changes (in textfile) to my local system through pull command on git  
+now i have changes on this text file through on my remote now i want to push whatever i have changes (in textfile) so, i want to this changes into my local system through pull command on git  
